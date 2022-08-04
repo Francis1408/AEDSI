@@ -4,6 +4,7 @@ This program receives two integers as inputs (Base an exponent) and calculates t
 int mult(int base, int exp);
 ```
 #### Example of input:
-
-<span style="color:orange"> Digite a *base* e o expoente inteiros</span>
+```
+Digite a base e o expoente inteiros: 2 8
 Resultado: 256
+```
