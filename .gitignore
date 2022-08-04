@@ -1,5 +1,1 @@
 #Executable files
-*
-!*.c
-!*.md
-!.gitignore
