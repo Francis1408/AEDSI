@@ -1,4 +1,4 @@
-This program receives any codified string in a file and decode. The message must be codified into Ceasar's cypher, which contains the following cypher alphabet:
+This program receives any codified string in a file and decode it. The message must be codified into Ceasar's cypher, which contains the following cypher alphabet:
 
 ```
 Normal:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
