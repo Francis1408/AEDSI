@@ -7,4 +7,4 @@ int mdc(int a, int b);
 ```
 Digite dois numeros inteiros: 25 10
 Resultado: 5
-```
+```  

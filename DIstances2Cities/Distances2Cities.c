@@ -55,7 +55,7 @@ TipoGrafo Grafo;
 TipoValorVertice NVertices;
 TipoIndice n;   /*Tamanho do heap*/
 TipoValorVertice Raiz;
-TipoVertice v1, v2;
+TipoVertice v1, v2;   
 
 void FGVazio(TipoGrafo *Grafo)
 { int  i, j;
